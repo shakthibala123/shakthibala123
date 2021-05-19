@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shakthibala
+- 👀 I’m interested in buliding the code
+- 🌱 I’m currently learning ajax
